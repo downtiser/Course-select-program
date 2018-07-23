@@ -1,2 +1,6 @@
 # Course-select-program
-A simple program provide different view for different user.
+USAGE:
+Enter bin and open Port.py,then
+input the information you need
+to input
+
