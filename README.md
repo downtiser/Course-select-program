@@ -1,6 +1,2 @@
 # Course-select-program
-USAGE:
-Enter bin and open Port.py,then
-input the information you need
-to input
-
+选课系统，为学生，老师，管理员提供了不同的页面和功能，进入bin，打开port.py，然后按提示输入即可
